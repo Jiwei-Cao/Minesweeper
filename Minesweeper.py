@@ -1,7 +1,6 @@
 import random
 import tkinter as tk
 from tkinter import messagebox, simpledialog
-from typing import List, Tuple, Set
 
 class MinesweeperGUI:
     def __init__(self, master):
